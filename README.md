@@ -45,7 +45,7 @@ To engage with a student comunity, APV decided to sponsor a hackathon that will 
 
 ![Ratings](/Resources/Del_1_ratings_df.png)
 
-**2. Extracted and Transform the Wikipedia Data**
+**2. Extracted and Transformed the Wikipedia Data**
 
 ***Cleaned Wiki Movies DataFrame***
 
